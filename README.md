@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jingyi202211
 - 👩‍💻 I’m an incoming student for the master of NEU Computer Science Align Program
 - 🌱 I’m currently learning Web Development and Pythoon
-- 💞️ I’m looking to collaborate on productive products
+- 💞️ I’m looking to collaborate on fun productive products
 - 📫 How to reach me - zhoujingyidl@gmail.com
 
 <!---
